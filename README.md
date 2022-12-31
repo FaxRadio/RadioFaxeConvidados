@@ -1,6 +1,370 @@
-# RadioFaxeConvidados
 #EXTM3U
 
+#EXTM3U url-tvg=" http://grade-de-radiofax.xml "
+
+############## radiofax #################  
+
+#EXTINF:-1 tvg-id=" iddocanalderadiofax" group-title="
+
+#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR, Radio Fax O Amor esta no aR
+http://stream.zeno.fm/hu70hmkcu68uv
+#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR, Radio Fax O Amor esta no aR
+http://stream.zeno.fm/hu70hmkcu68uv.m3u
+#EXTINF:0,Radio Fax O Amor esta no aR tvg-id="iddocanalderadiofax" group-title="radiofax" tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" -Radio Fax O Amor esta no aR, Radio Fax O Amor esta no aR
+http://stream.zeno.fm/hu70hmkcu68uv.pls
+#EXTM3U url-tvg=" http://grade-de-nao.xml "
+
+ ############## nao ################ #   
+#EXTINF:-1 tvg-id=" iddocanaldenao " group-title="
+
+https://filmesporno.xxx/page/3/
+
+#EXTINF:0,loiras tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/muito-sexo-quente-no-xvideos-porno-com-loiras.jpg" -loiras
+https://hls-hw.xvideos-cdn.com/videos/hls/a5/52/10/a55210ae8d72becfabac500cd744c016-2/hls-1080p-523bc.m3u8?e=1672465564&l=0&h=6bc5d2516292fdf31c8a777bd6a9c6a4
+#EXTINF:0,calcinha branca  tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/mulheres-gatas-de-calcinha-branca-sensualizando-demais.jpg" -calcinha branca 
+https://hls3-cf.xvideos-cdn.com/55101ee0d923050c905d93c620683fbfd73490cc-1672465786/videos/hls/85/d9/da/85d9da224cc70630487d0837da3ce415/hls-1080p-036cb.m3u8
+#EXTINF:0, gordinhas tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/11/mulheres-gordinhas-plus-size-fodem-sempre-bem-gostoso.jpg" - gordinhas
+https://cdn77-vid.xvideos-cdn.com/KyIkV2S0TOoYnhoHWO_ttQ==,1672466021/videos/hls/b8/bf/94/b8bf940fb87ec6caffc3d9e0ccbf1f37/hls-720p.m3u8
+#EXTINF:0,riley reynolds tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/10/loirinha-riley-reynolds-porn-com-negao-no-sexo.jpg" -riley reynolds
+https://hls8-cf.xvideos-cdn.com/a7abe7102ecd48db6c65a6bb4689ce093ac668b7-1672465614/videos/hls/9d/c9/40/9dc9409ba2c830f8dc49d2ccfdab0c93/hls-1080p-2800e.m3u8
+#EXTINF:0,picante tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/loirinha-devassa-fazendo-sexo-em-paris-em-video-picante.jpg" -picante
+https://hls2-cf.xvideos-cdn.com/c248c7c0f31e387049dea30afb72ffd6a2b43b1a-1672465947/videos/hls/4e/47/9e/4e479efad174f02e8f95219a7e9b2378/hls-1080p.m3u8
+#EXTINF:0,Gatas nuas fazendo sexo anal com dotados tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2021/04/Gatas-do-Flamengo-e-Inter.jpeg" -Gatas nuas fazendo sexo anal com dotados
+https://cdn77-vid.xvideos-cdn.com/DsRq7M2IEokse2Ic9iRVlw==,1672464323/videos/hls/10/30/a7/1030a7e9b97d89b2797f085f8235f643-1/hls-720p.m3u8
+#EXTINF:0,Ruiva casada dando pra negao dotado tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.pinimg.com/736x/a3/ae/25/a3ae25694d7aff1461b807d1db0c7549.jpg" -Ruiva casada dando pra negao dotado
+https://cdn77-vid.xvideos-cdn.com/ZTDhYTv-NUzkPRfxp9IaJA==,1672465058/videos/hls/d6/58/00/d65800f5c7dc4a8ea4bdd32280d3c566/hls-1080p-22dd8.m3u8
+#EXTINF:0,Comendo o cu da mulher do corno fazendo ele gozar muito tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://pbs.twimg.com/profile_images/1149526835782275073/cXF_sKcP_400x400.jpg" -Comendo o cu da mulher do corno fazendo ele gozar muito
+https://cdn77-vid.xvideos-cdn.com/n9M67f6ob1ITf-m02Lh8CA==,1672465223/videos/hls/5d/be/c8/5dbec847067a38590f06e85d0488d5e3/hls-1080p.m3u8
+#EXTINF:0,Ruivinha gostosa rebolando gostoso no pau tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://pbs.twimg.com/media/EWVQMiEXYAAUk6F.jpg" -Ruivinha gostosa rebolando gostoso no pau
+https://cdn77-vid.xvideos-cdn.com/ubVJOEhgyS3-_wkhBFET3Q==,1672465262/videos/hls/72/15/74/721574d58bd4f62e00c22c4e3cd236b1/hls-1080p-95b89.m3u8
+#EXTINF:0,Mulher coroa rabuda e puta dando o seu cu gostoso tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/11/mulher-coroa-rabuda-e-puta-dando-o-seu-cu-gostoso.jpg" -Mulher coroa rabuda e puta dando o seu cu gostoso
+https://hls-hw.xvideos-cdn.com/videos/hls/43/fe/66/43fe66818501af5c36787052bcacb825/hls-720p-c669a.m3u8?e=1672465420&l=0&h=f12e2713d88978a6c0a13ac48c35de18
+#EXTINF:0,Uma das mais putas coroas tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/10/uma-das-mais-putas-coroas-maduras-brasileiras-sensualizando-demais.jpg" -Uma das mais putas coroas
+https://hls8-cf.xvideos-cdn.com/6240593577071dff104b9f0638d363be3e2ebcf7-1672465509/videos/hls/49/c0/be/49c0bed1048e690065976ba713cf5f62/hls-1080p-4e9d6.m3u8
+#EXTINF:0,Loirinha da buceta folgada dando pra negão tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/loirinha-da-buceta-folgada-dando-pra-negao.jpg" -Loirinha da buceta folgada dando pra negão
+https://hls4-cf.xvideos-cdn.com/475163f81493035ddce7695ffcd76810b074dc21-1672465343/videos/hls/7d/a8/cb/7da8cb549da95543d7af1446267cdc56/hls-1080p.m3u8
+#EXTINF:0,gatinhas em bukkake tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/12/as-mais-gatinhas-em-bukkake-videos-quentes.jpg" -gatinhas em bukkake 
+https://hls8-cf.xvideos-cdn.com/196ded6add01fd737f9e148292b751b4774628e6-1672465771/videos/hls/9c/e7/15/9ce7156b38d3d092a9fe7c4b7bb4c5d1/hls-1080p-b50d3.m3u8
+#EXTINF:0,Sexo gostoso caseiro em indian tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/10/sexo-gostoso-caseiro-em-indian-porn.jpg" -Sexo gostoso caseiro em indian
+https://cdn77-vid.xvideos-cdn.com/M6QtwJA0IWNwKWuuKtvSBw==,1672465661/videos/hls/9e/af/56/9eaf56ce066ab59f3b2f5b1bd58ed6b7-1/hls-1080p-715e2.m3u8
+
+
+#EXTINF:0,Mulher pelada com bunda grande sem calcinha tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://filmesporno.xxx/wp-content/uploads/2022/08/mulher-pelada-com-bunda-grande-sem-calcinha-51c.jpg" -Mulher pelada com bunda grande sem calcinha
+https://cdn77-vid.xvideos-cdn.com/bJoiAzU2pbp_r0TxNSjJmw==,1672465608/videos/hls/3c/61/65/3c616541edfad327ad8739090c50ecd1-2/hls-1080p-cd24e.m3u8
+
+#EXTINF:0,Kpop TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:0,Brunette tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Brunette
+https://live.adultiptv.net/brunette.m3u8
+
+#EXTINF:0,Blowjob tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Blowjob
+https://live.adultiptv.net/blowjob.m3u8
+
+#EXTINF:0,star tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -star
+https://live.adultiptv.net/pornstar.m3u8
+
+#EXTINF:0,Russian tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Russian
+https://live.adultiptv.net/russian.m3u8
+
+#EXTINF:0,MILF tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -MILF
+https://live.adultiptv.net/milf.m3u8
+
+#EXTINF:0,Gay tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Gay
+https://live.adultiptv.net/gay.m3u8
+
+#EXTINF:0,Lesbian tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Lesbian
+https://live.adultiptv.net/lesbian.m3u8
+
+#EXTINF:0,Cuckold tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Cuckold
+https://live.adultiptv.net/cuckold.m3u8
+
+
+#EXTINF:0,Latina tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Latina
+https://live.adultiptv.net/latina.m3u8
+
+#EXTINF:0,Live Cams tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Live Cams
+https://live.adultiptv.net/livecams.m3u8
+
+#EXTINF:0,Gangbang tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Gangbang
+https://live.adultiptv.net/gangbang.m3u8
+
+#EXTINF:0,Threesome tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Threesome
+https://live.adultiptv.net/threesome.m3u8
+
+#EXTINF:0,Rough tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Rough
+https://live.adultiptv.net/rough.m3u8
+
+#EXTINF:0,POV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -POV
+https://live.adultiptv.net/pov.m3u8
+
+#EXTINF:0,Interracial tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Interracial  
+https://live.adultiptv.net/interracial.m3u8
+
+
+#EXTINF:0, Hardcore tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Hardcore
+https://live.adultiptv.net/hardcore.m3u8
+
+#EXTINF:0, Fetish tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Fetish
+https://live.adultiptv.net/fetish.m3u8
+
+#EXTINF:0, Compilation tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Compilation
+https://live.adultiptv.net/compilation.m3u8
+
+#EXTINF:0,  Big Tits tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" - Big Tits
+https://live.adultiptv.net/bigtits.m3u8
+
+#EXTINF:0,Big Dick tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Big Dick
+https://live.adultiptv.net/bigdick.m3u8
+
+#EXTINF:0,Ana tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Ana
+https://live.adultiptv.net/anal.m3u8
+
+#EXTINF:0,Blonde tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Blonde
+https://live.adultiptv.net/blonde.m3u8
+
+#EXTINF:0,Teen tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Teen
+https://live.adultiptv.net/teen.m3u8
+
+#EXTINF:0,Big Ass tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://static3.mangalivre.net/capas/gG_62knozeZxJf246iBrbQ/15641/62d9acd1e6b9b_capa.jpg" -Big Ass
+https://live.adultiptv.net/bigass.m3u8
+
+#EXTINF:0,ppp tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -ppp
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/665
+
+#EXTINF:0,Atribulado (1929) tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://media.tenor.com/GJQuOocp5iMAAAAC/so-que-nao-nope.gif" -Atribulado
+https://cdn77-vid.xvideos-cdn.com/vnCQ_MOd6w9sdn_4QSj9Kg==,1670470231/videos/hls/83/2b/97/832b970dc10960ef0e7e48efca623499-1/hls-720p.m3u8
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/321
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/322
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/324
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/325
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/326
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/328
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/330
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/331
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/337
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/338
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/341
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1070
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1071
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1072
+#EXTVLCOPT:network-caching=1000#EXTINF:0,XXL TV tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -XXL TV
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/1073
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/567
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/576
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/666
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/577
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/578
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/579
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/580
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/581
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/582
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/583
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/584
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/585
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/568
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/586
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/587
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/588
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/589
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/590
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/591
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/592
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/593
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/594
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/595
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/569
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/596
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/597
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/598
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/599
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/600
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/601
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/602
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/603
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/604
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/605
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/570
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/606
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/607
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/608
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/609
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/610
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/611
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/612
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1   
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/613
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/614
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/615
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/571
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/616
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/617
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/618
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/619
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/620
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/621
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/622
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/623
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/624
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/625
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/572
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/626
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/627
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/628
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/629
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/630
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/631
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/632
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/633
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/634
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/635
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/573
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/636
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/637
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/638
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/639
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/640
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/641
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/642
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/643
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/644
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/645
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/574
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/646
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/647
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/648
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/649
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/650
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/651
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/652
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/653
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/654
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/655
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/575
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/656
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/657
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/658
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/659
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/660
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/661
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/662
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/663
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1 
+http://newapp24.xyz:2095/xplus-2-R1EMOnFeCh/dHOh9qJ5qY/664
+
+#EXTINF:0,PORNBOX 1 tvg-id="iddocanaldenao" group-title="nao" tvg-logo="https://i.picasion.com/pic92/cb411a16b2f7186ecf5e6b054ad6cb44.gif" -PORNBOX 1
+https://video-hw.xvideos-cdn.com/videos/3gp/6/c/8/xvideos.com_6c8a6955392d1eaa19a262639c615fab.mp4?e=1671813714&ri=1024&rs=85&h=b49b856a0657a7b1df083912b2f28e73
 #EXTM3U url-tvg=" http://grade-de-radio.xml "
 
  ############## radio ################ #   
@@ -11,8 +375,6 @@
 #EXTINF:0,Saudade FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/saudade-fm-ao-vivo.png" -Saudade FM
 https://26603.live.streamtheworld.com/SAUDADE_FMAAC.aac?saudadefm
 
-#EXTINF:0,Rádio Capital tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/radio-capital-ao-vivo.jpg" -Rádio Capital
-https://f13.fabricahost.com.br/capitalfmsp?f=1672451470N01GNJY0D7YEYP3R7ZCJQF7DDNC&tid=01GNJY0D7YZHRFPYYAWVJHZ7RC
 #EXTINF:0,Nativa FM tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/nativa-fm-ao-vivo.jpeg" -Nativa FM
 https://24073.live.streamtheworld.com/NATIVA_SPAAC/HLS/a648b04f-8a77-4fff-bab0-aa929fe71b41/0/3.aac
 #EXTINF:0,Hunter FM Pop tvg-id="iddocanalderadio" group-title="radio" tvg-logo="https://radiosaovivo.fm/wp-content/uploads/2022/12/hunterfm.jpg" -Hunter FM Pop
